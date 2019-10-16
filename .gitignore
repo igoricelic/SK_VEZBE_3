@@ -1,0 +1,14 @@
+.classpath
+.project*/target/**
+*/target/**
+*/target/*
+target/*
+target/**
+*.class
+.settings
+.project
+.springBeans
+/.apt_generated/
+.idea
+*/resources
+/tokens
